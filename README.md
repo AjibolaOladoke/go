@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the go notes, examples 
 
 ## Images
 
-[![go](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![go](images/preview.png)](https://github.com/Swift-Tech-Co/go)
 
 ## The Open Source Data Science Masters
 
@@ -20,7 +20,6 @@ This is called a "Masters" because it is primarily concerned with "upper-level" 
 2. **❄️ Specialty** - Choose what is most interesting to you, or most relevant to the work you plan to do.
 3. **🤝 Doing Data Science** - Learn about how doing science with others and for businesses can work.
 4. **🧑‍💻 Capstone Project** - Choose a meaningful project or dataset to demonstrate what you've learned.
-
 
 ## 📖 The Core
 _This is a critical foundation for what is to come; don't skip!_
@@ -242,7 +241,6 @@ Show the process you used to disprove your hypothesis, preferably in a jupyter n
 
 Please Contribute; **this is Open Source!**
 
-
 _RIP v1.0 commit_
 
 ---
@@ -259,13 +257,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/go
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [golang/go](https://github.com/golang/go) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
